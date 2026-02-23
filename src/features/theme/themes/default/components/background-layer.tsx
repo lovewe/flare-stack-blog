@@ -2,8 +2,14 @@ import { useEffect, useRef } from "react";
 import { useRouterState } from "@tanstack/react-router";
 import { blogConfig } from "@/blog.config";
 
-const { homeImage, globalImage, light, dark, backdropBlur, transitionDuration } =
-  blogConfig.theme.default.background;
+const {
+  homeImage,
+  globalImage,
+  light,
+  dark,
+  backdropBlur,
+  transitionDuration,
+} = blogConfig.theme.default.background;
 
 const hasAnyImage = homeImage !== "" || globalImage !== "";
 

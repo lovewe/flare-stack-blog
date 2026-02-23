@@ -103,6 +103,7 @@ Flare Stack Blog 的所有面向用户的页面与布局均通过 **主题契约
 → **[主题开发教程](./docs/theme-guide.md)** — 了解如何从零创建你的第一个自定义主题。
 
 #### 可用主题
+
 各个主题的配置项，请前往`src/blog.config.ts`里查看
 
 <table>
