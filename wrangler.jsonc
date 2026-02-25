@@ -17,14 +17,14 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_id": "12100bad-df6e-4261-bd92-509ed7605b99",
+      "database_id": "6e6f8df5-ad26-4087-b0a2-7a2f7eb82cf7",
       "migrations_dir": "migrations",
       "remote": true,
     },
   ],
   "r2_buckets": [
     {
-      "bucket_name": "blog",
+      "bucket_name": "flare-blog",
       "binding": "R2",
       "remote": true,
     },
@@ -32,7 +32,7 @@
   "kv_namespaces": [
     {
       "binding": "KV",
-      "id": "bff005fd99604749a7e8e3e2fe956adf",
+      "id": "b84129728a0144d5b9675c9d93a64b62",
       "remote": true,
     },
   ],
